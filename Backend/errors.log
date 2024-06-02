@@ -1,0 +1,1741 @@
+Time: Wed May 15 2024 20:21:46 GMT+0300 (שעון ישראל (קיץ))
+Message: Route / not found.
+Stack: undefined
+---------------------------------------
+
+Time: Wed May 15 2024 20:21:46 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /favicon.ico not found.
+Stack: undefined
+---------------------------------------
+
+Time: Wed May 15 2024 20:21:50 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /books not found.
+Stack: undefined
+---------------------------------------
+
+Time: Wed May 15 2024 20:21:53 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /authors not found.
+Stack: undefined
+---------------------------------------
+
+Time: Wed May 15 2024 21:10:07 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/search/ not found.
+Stack: undefined
+---------------------------------------
+
+Time: Wed May 15 2024 21:15:43 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/search/ not found.
+Stack: undefined
+---------------------------------------
+
+Time: Wed May 15 2024 21:16:22 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/search/ not found.
+Stack: undefined
+---------------------------------------
+
+Time: Mon May 20 2024 20:36:53 GMT+0300 (שעון ישראל (קיץ))
+Message: BookModel validation failed: price: Missing Price, pages: Missing pages, name: Missing name, authorId: Missing authorId
+Stack: undefined
+---------------------------------------
+
+Time: Mon May 20 2024 21:36:06 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/operations not found.
+Stack: undefined
+---------------------------------------
+
+Time: Mon May 20 2024 22:02:45 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/books not found.
+Stack: undefined
+---------------------------------------
+
+Time: Mon May 20 2024 22:02:56 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/books not found.
+Stack: undefined
+---------------------------------------
+
+Time: Mon May 20 2024 22:02:57 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/books not found.
+Stack: undefined
+---------------------------------------
+
+Time: Mon May 20 2024 22:05:46 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/operations not found.
+Stack: undefined
+---------------------------------------
+
+Time: Mon May 20 2024 22:07:53 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/books not found.
+Stack: undefined
+---------------------------------------
+
+Time: Mon May 20 2024 22:07:56 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/accountOperations not found.
+Stack: undefined
+---------------------------------------
+
+Time: Mon May 20 2024 22:09:24 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /favicon.ico not found.
+Stack: undefined
+---------------------------------------
+
+Time: Mon May 20 2024 22:13:13 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/books not found.
+Stack: undefined
+---------------------------------------
+
+Time: Mon May 20 2024 22:31:48 GMT+0300 (שעון ישראל (קיץ))
+Message: Route / not found.
+Stack: undefined
+---------------------------------------
+
+Time: Mon May 20 2024 22:35:48 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/ not found.
+Stack: undefined
+---------------------------------------
+
+Time: Mon May 20 2024 22:42:11 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/BankAccounts not found.
+Stack: undefined
+---------------------------------------
+
+Time: Mon May 20 2024 22:47:40 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/operations not found.
+Stack: undefined
+---------------------------------------
+
+Time: Mon May 20 2024 22:52:16 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/operations not found.
+Stack: undefined
+---------------------------------------
+
+Time: Mon May 20 2024 23:00:17 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/ not found.
+Stack: undefined
+---------------------------------------
+
+Time: Tue May 21 2024 19:35:41 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/operations/123456 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Tue May 21 2024 19:38:55 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/operations/123456 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Tue May 21 2024 19:43:51 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/123456 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Tue May 21 2024 19:43:55 GMT+0300 (שעון ישראל (קיץ))
+Message: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+Stack: CastError: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+    at SchemaNumber.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1236:12)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:434:16)
+    at SchemaNumber.handleSingle (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1582:15)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:430:20)
+    at cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\cast.js:352:39)
+    at model.Query.Query.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4786:12)
+    at model.Query.Query._castConditions (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2199:10)
+    at model.Query._find (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2225:8)
+    at model.Query.exec (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4330:80)
+---------------------------------------
+
+Time: Tue May 21 2024 19:44:04 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/1 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Tue May 21 2024 19:44:08 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/123456 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Tue May 21 2024 19:45:46 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/123456 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Tue May 21 2024 19:45:47 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/123456 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Tue May 21 2024 19:45:48 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/123456 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Tue May 21 2024 19:46:59 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/123456 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Tue May 21 2024 19:47:14 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/123456 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Tue May 21 2024 19:47:22 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/123456 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Tue May 21 2024 19:47:44 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/123456 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Tue May 21 2024 19:49:18 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/123456 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Tue May 21 2024 19:52:54 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/123456 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Tue May 21 2024 19:52:55 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/123456 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Tue May 21 2024 19:53:20 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/_123456 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Tue May 21 2024 19:53:24 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/123456 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Tue May 21 2024 19:54:09 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/123456 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Tue May 21 2024 19:54:23 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/123456 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Tue May 21 2024 19:54:29 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/:123456 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Tue May 21 2024 19:54:34 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/123456 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Tue May 21 2024 19:59:58 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/operations/123456 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Tue May 21 2024 20:00:02 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/operations/123456 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Tue May 21 2024 20:00:07 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/operations not found.
+Stack: undefined
+---------------------------------------
+
+Time: Tue May 21 2024 20:18:24 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations not found.
+Stack: undefined
+---------------------------------------
+
+Time: Tue May 21 2024 20:18:26 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/ not found.
+Stack: undefined
+---------------------------------------
+
+Time: Tue May 21 2024 20:18:29 GMT+0300 (שעון ישראל (קיץ))
+Message: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+Stack: CastError: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+    at SchemaNumber.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1236:12)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:434:16)
+    at SchemaNumber.handleSingle (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1582:15)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:430:20)
+    at cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\cast.js:352:39)
+    at model.Query.Query.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4786:12)
+    at model.Query.Query._castConditions (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2199:10)
+    at model.Query._find (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2225:8)
+    at model.Query.exec (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4330:80)
+---------------------------------------
+
+Time: Tue May 21 2024 20:20:45 GMT+0300 (שעון ישראל (קיץ))
+Message: Operations not found for account number: 123456
+Stack: Error: Operations not found for account number: 123456
+    at DataService.<anonymous> (C:\Users\user\Desktop\Project 4\BANK\Backend\src\5-services\bank-service.ts:11:19)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\user\Desktop\Project 4\BANK\Backend\src\5-services\bank-service.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+---------------------------------------
+
+Time: Tue May 21 2024 20:26:26 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations not found.
+Stack: undefined
+---------------------------------------
+
+Time: Tue May 21 2024 20:27:08 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/book-store/account-operations not found.
+Stack: undefined
+---------------------------------------
+
+Time: Tue May 21 2024 20:27:12 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations not found.
+Stack: undefined
+---------------------------------------
+
+Time: Tue May 21 2024 20:27:13 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations not found.
+Stack: undefined
+---------------------------------------
+
+Time: Tue May 21 2024 20:37:55 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations123456 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Tue May 21 2024 20:38:00 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations not found.
+Stack: undefined
+---------------------------------------
+
+Time: Tue May 21 2024 20:38:02 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations not found.
+Stack: undefined
+---------------------------------------
+
+Time: Tue May 21 2024 21:08:23 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/authors/ not found.
+Stack: undefined
+---------------------------------------
+
+Time: Tue May 21 2024 21:58:04 GMT+0300 (שעון ישראל (קיץ))
+Message: AccountOperationModel validation failed: interest: Path `interest` is required.
+Stack: undefined
+---------------------------------------
+
+Time: Tue May 21 2024 21:58:16 GMT+0300 (שעון ישראל (קיץ))
+Message: AccountOperationModel validation failed: interest: Path `interest` is required.
+Stack: undefined
+---------------------------------------
+
+Time: Tue May 21 2024 21:58:44 GMT+0300 (שעון ישראל (קיץ))
+Message: AccountOperationModel validation failed: interest: Path `interest` is required.
+Stack: undefined
+---------------------------------------
+
+Time: Tue May 21 2024 22:01:49 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/authors/ not found.
+Stack: undefined
+---------------------------------------
+
+Time: Wed May 22 2024 19:59:21 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/authors/ not found.
+Stack: undefined
+---------------------------------------
+
+Time: Wed May 22 2024 19:59:59 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/search/Niki not found.
+Stack: undefined
+---------------------------------------
+
+Time: Wed May 22 2024 20:00:27 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/search/M not found.
+Stack: undefined
+---------------------------------------
+
+Time: Wed May 22 2024 20:00:29 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/search/M not found.
+Stack: undefined
+---------------------------------------
+
+Time: Wed May 22 2024 20:00:30 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/search/Mo not found.
+Stack: undefined
+---------------------------------------
+
+Time: Wed May 22 2024 20:00:32 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/search/Mos not found.
+Stack: undefined
+---------------------------------------
+
+Time: Wed May 22 2024 20:00:33 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/search/Mosh not found.
+Stack: undefined
+---------------------------------------
+
+Time: Wed May 22 2024 20:00:34 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/search/Mos not found.
+Stack: undefined
+---------------------------------------
+
+Time: Wed May 22 2024 20:00:35 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/search/Mo not found.
+Stack: undefined
+---------------------------------------
+
+Time: Wed May 22 2024 20:00:36 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/search/M not found.
+Stack: undefined
+---------------------------------------
+
+Time: Wed May 22 2024 20:00:38 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/authors/ not found.
+Stack: undefined
+---------------------------------------
+
+Time: Wed May 22 2024 20:05:25 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/authors/ not found.
+Stack: undefined
+---------------------------------------
+
+Time: Wed May 22 2024 20:05:33 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/authors/ not found.
+Stack: undefined
+---------------------------------------
+
+Time: Wed May 22 2024 20:05:56 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/authors/ not found.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 17:55:13 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/search/%D7%9B not found.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 18:23:03 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/?accountNumber=12345 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 18:23:16 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/?accountNumber=12345 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 18:23:50 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/?accountNumber=undefined not found.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 18:23:54 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/?accountNumber=undefined not found.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 18:28:18 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/?accountNumber=1223 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 18:28:24 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/?accountNumber=123456 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 18:28:40 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/?accountNumber=123456 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 18:28:49 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/?accountNumber=123456 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 18:28:50 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/?accountNumber=123456 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 18:28:52 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/?accountNumber=123456 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 18:29:02 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/?accountNumber=123456 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 18:30:57 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/?accountNumber=undefined not found.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 18:31:01 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/?accountNumber=undefined not found.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 18:35:02 GMT+0300 (שעון ישראל (קיץ))
+Message: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+Stack: CastError: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+    at SchemaNumber.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1236:12)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:434:16)
+    at SchemaNumber.handleSingle (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1582:15)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:430:20)
+    at cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\cast.js:352:39)
+    at model.Query.Query.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4786:12)
+    at model.Query.Query._castConditions (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2199:10)
+    at model.Query._find (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2225:8)
+    at model.Query.exec (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4330:80)
+---------------------------------------
+
+Time: Thu May 23 2024 18:35:05 GMT+0300 (שעון ישראל (קיץ))
+Message: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+Stack: CastError: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+    at SchemaNumber.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1236:12)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:434:16)
+    at SchemaNumber.handleSingle (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1582:15)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:430:20)
+    at cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\cast.js:352:39)
+    at model.Query.Query.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4786:12)
+    at model.Query.Query._castConditions (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2199:10)
+    at model.Query._find (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2225:8)
+    at model.Query.exec (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4330:80)
+---------------------------------------
+
+Time: Thu May 23 2024 18:39:03 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/authors/ not found.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 18:39:08 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/?accountNumber=1 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 18:39:31 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/?accountNumber=1 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 18:39:36 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/?accountNumber=123456 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 18:40:24 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/?accountNumber=undefined not found.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 18:41:45 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/?accountNumber=3 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 18:41:51 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/?accountNumber=3 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 18:42:17 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/?accountNumber=3 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 18:42:20 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/?accountNumber=31235 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 18:42:34 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/?accountNumber=5 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 18:42:36 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/?accountNumber=5 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 18:42:38 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/?accountNumber=4324 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 18:45:34 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/?accountNumber=1 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 18:45:38 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/?accountNumber=123456 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 18:46:08 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/?accountNumber=2 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 18:46:09 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/?accountNumber=2 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 18:46:35 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/?accountNumber=1 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 18:46:54 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/?accountNumber=1 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 18:46:57 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/account-operations/?accountNumber=123456 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 19:37:36 GMT+0300 (שעון ישראל (קיץ))
+Message: No operations found for this account number.
+Stack: Error: No operations found for this account number.
+    at DataService.<anonymous> (C:\Users\user\Desktop\Project 4\BANK\Backend\src\5-services\bank-service.ts:10:19)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\user\Desktop\Project 4\BANK\Backend\src\5-services\bank-service.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+---------------------------------------
+
+Time: Thu May 23 2024 19:37:43 GMT+0300 (שעון ישראל (קיץ))
+Message: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+Stack: CastError: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+    at SchemaNumber.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1236:12)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:434:16)
+    at SchemaNumber.handleSingle (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1582:15)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:430:20)
+    at cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\cast.js:352:39)
+    at model.Query.Query.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4786:12)
+    at model.Query.Query._castConditions (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2199:10)
+    at model.Query._find (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2225:8)
+    at model.Query.exec (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4330:80)
+---------------------------------------
+
+Time: Thu May 23 2024 19:37:45 GMT+0300 (שעון ישראל (קיץ))
+Message: No operations found for this account number.
+Stack: Error: No operations found for this account number.
+    at DataService.<anonymous> (C:\Users\user\Desktop\Project 4\BANK\Backend\src\5-services\bank-service.ts:10:19)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\user\Desktop\Project 4\BANK\Backend\src\5-services\bank-service.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+---------------------------------------
+
+Time: Thu May 23 2024 19:37:53 GMT+0300 (שעון ישראל (קיץ))
+Message: No operations found for this account number.
+Stack: Error: No operations found for this account number.
+    at DataService.<anonymous> (C:\Users\user\Desktop\Project 4\BANK\Backend\src\5-services\bank-service.ts:10:19)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\user\Desktop\Project 4\BANK\Backend\src\5-services\bank-service.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+---------------------------------------
+
+Time: Thu May 23 2024 19:38:19 GMT+0300 (שעון ישראל (קיץ))
+Message: No operations found for this account number.
+Stack: Error: No operations found for this account number.
+    at DataService.<anonymous> (C:\Users\user\Desktop\Project 4\BANK\Backend\src\5-services\bank-service.ts:10:19)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\user\Desktop\Project 4\BANK\Backend\src\5-services\bank-service.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+---------------------------------------
+
+Time: Thu May 23 2024 19:38:24 GMT+0300 (שעון ישראל (קיץ))
+Message: No operations found for this account number.
+Stack: Error: No operations found for this account number.
+    at DataService.<anonymous> (C:\Users\user\Desktop\Project 4\BANK\Backend\src\5-services\bank-service.ts:10:19)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\user\Desktop\Project 4\BANK\Backend\src\5-services\bank-service.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+---------------------------------------
+
+Time: Thu May 23 2024 19:39:51 GMT+0300 (שעון ישראל (קיץ))
+Message: id 2 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 19:39:57 GMT+0300 (שעון ישראל (קיץ))
+Message: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+Stack: CastError: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+    at SchemaNumber.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1236:12)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:434:16)
+    at SchemaNumber.handleSingle (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1582:15)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:430:20)
+    at cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\cast.js:352:39)
+    at model.Query.Query.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4786:12)
+    at model.Query.Query._castConditions (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2199:10)
+    at model.Query._find (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2225:8)
+    at model.Query.exec (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4330:80)
+---------------------------------------
+
+Time: Thu May 23 2024 19:40:11 GMT+0300 (שעון ישראל (קיץ))
+Message: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+Stack: CastError: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+    at SchemaNumber.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1236:12)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:434:16)
+    at SchemaNumber.handleSingle (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1582:15)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:430:20)
+    at cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\cast.js:352:39)
+    at model.Query.Query.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4786:12)
+    at model.Query.Query._castConditions (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2199:10)
+    at model.Query._find (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2225:8)
+    at model.Query.exec (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4330:80)
+---------------------------------------
+
+Time: Thu May 23 2024 19:40:15 GMT+0300 (שעון ישראל (קיץ))
+Message: id 5 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 19:40:58 GMT+0300 (שעון ישראל (קיץ))
+Message: id 5 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 19:46:54 GMT+0300 (שעון ישראל (קיץ))
+Message: id 1 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 19:47:50 GMT+0300 (שעון ישראל (קיץ))
+Message: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+Stack: CastError: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+    at SchemaNumber.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1236:12)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:434:16)
+    at SchemaNumber.handleSingle (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1582:15)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:430:20)
+    at cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\cast.js:352:39)
+    at model.Query.Query.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4786:12)
+    at model.Query.Query._castConditions (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2199:10)
+    at model.Query._find (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2225:8)
+    at model.Query.exec (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4330:80)
+---------------------------------------
+
+Time: Thu May 23 2024 19:49:30 GMT+0300 (שעון ישראל (קיץ))
+Message: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+Stack: CastError: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+    at SchemaNumber.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1236:12)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:434:16)
+    at SchemaNumber.handleSingle (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1582:15)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:430:20)
+    at cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\cast.js:352:39)
+    at model.Query.Query.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4786:12)
+    at model.Query.Query._castConditions (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2199:10)
+    at model.Query._find (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2225:8)
+    at model.Query.exec (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4330:80)
+---------------------------------------
+
+Time: Thu May 23 2024 19:49:31 GMT+0300 (שעון ישראל (קיץ))
+Message: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+Stack: CastError: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+    at SchemaNumber.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1236:12)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:434:16)
+    at SchemaNumber.handleSingle (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1582:15)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:430:20)
+    at cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\cast.js:352:39)
+    at model.Query.Query.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4786:12)
+    at model.Query.Query._castConditions (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2199:10)
+    at model.Query._find (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2225:8)
+    at model.Query.exec (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4330:80)
+---------------------------------------
+
+Time: Thu May 23 2024 19:54:14 GMT+0300 (שעון ישראל (קיץ))
+Message: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+Stack: CastError: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+    at SchemaNumber.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1236:12)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:434:16)
+    at SchemaNumber.handleSingle (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1582:15)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:430:20)
+    at cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\cast.js:352:39)
+    at model.Query.Query.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4786:12)
+    at model.Query.Query._castConditions (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2199:10)
+    at model.Query._find (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2225:8)
+    at model.Query.exec (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4330:80)
+---------------------------------------
+
+Time: Thu May 23 2024 19:54:31 GMT+0300 (שעון ישראל (קיץ))
+Message: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+Stack: CastError: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+    at SchemaNumber.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1236:12)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:434:16)
+    at SchemaNumber.handleSingle (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1582:15)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:430:20)
+    at cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\cast.js:352:39)
+    at model.Query.Query.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4786:12)
+    at model.Query.Query._castConditions (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2199:10)
+    at model.Query._find (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2225:8)
+    at model.Query.exec (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4330:80)
+---------------------------------------
+
+Time: Thu May 23 2024 19:56:11 GMT+0300 (שעון ישראל (קיץ))
+Message: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+Stack: CastError: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+    at SchemaNumber.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1236:12)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:434:16)
+    at SchemaNumber.handleSingle (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1582:15)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:430:20)
+    at cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\cast.js:352:39)
+    at model.Query.Query.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4786:12)
+    at model.Query.Query._castConditions (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2199:10)
+    at model.Query._find (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2225:8)
+    at model.Query.exec (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4330:80)
+---------------------------------------
+
+Time: Thu May 23 2024 19:56:35 GMT+0300 (שעון ישראל (קיץ))
+Message: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+Stack: CastError: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+    at SchemaNumber.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1236:12)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:434:16)
+    at SchemaNumber.handleSingle (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1582:15)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:430:20)
+    at cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\cast.js:352:39)
+    at model.Query.Query.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4786:12)
+    at model.Query.Query._castConditions (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2199:10)
+    at model.Query._find (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2225:8)
+    at model.Query.exec (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4330:80)
+---------------------------------------
+
+Time: Thu May 23 2024 19:56:35 GMT+0300 (שעון ישראל (קיץ))
+Message: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+Stack: CastError: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+    at SchemaNumber.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1236:12)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:434:16)
+    at SchemaNumber.handleSingle (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1582:15)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:430:20)
+    at cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\cast.js:352:39)
+    at model.Query.Query.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4786:12)
+    at model.Query.Query._castConditions (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2199:10)
+    at model.Query._find (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2225:8)
+    at model.Query.exec (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4330:80)
+---------------------------------------
+
+Time: Thu May 23 2024 19:56:39 GMT+0300 (שעון ישראל (קיץ))
+Message: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+Stack: CastError: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+    at SchemaNumber.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1236:12)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:434:16)
+    at SchemaNumber.handleSingle (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1582:15)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:430:20)
+    at cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\cast.js:352:39)
+    at model.Query.Query.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4786:12)
+    at model.Query.Query._castConditions (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2199:10)
+    at model.Query._find (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2225:8)
+    at model.Query.exec (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4330:80)
+---------------------------------------
+
+Time: Thu May 23 2024 19:56:48 GMT+0300 (שעון ישראל (קיץ))
+Message: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+Stack: CastError: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+    at SchemaNumber.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1236:12)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:434:16)
+    at SchemaNumber.handleSingle (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1582:15)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:430:20)
+    at cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\cast.js:352:39)
+    at model.Query.Query.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4786:12)
+    at model.Query.Query._castConditions (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2199:10)
+    at model.Query._find (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2225:8)
+    at model.Query.exec (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4330:80)
+---------------------------------------
+
+Time: Thu May 23 2024 19:57:58 GMT+0300 (שעון ישראל (קיץ))
+Message: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+Stack: CastError: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+    at SchemaNumber.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1236:12)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:434:16)
+    at SchemaNumber.handleSingle (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1582:15)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:430:20)
+    at cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\cast.js:352:39)
+    at model.Query.Query.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4786:12)
+    at model.Query.Query._castConditions (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2199:10)
+    at model.Query._find (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2225:8)
+    at model.Query.exec (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4330:80)
+---------------------------------------
+
+Time: Thu May 23 2024 19:58:01 GMT+0300 (שעון ישראל (קיץ))
+Message: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+Stack: CastError: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+    at SchemaNumber.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1236:12)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:434:16)
+    at SchemaNumber.handleSingle (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1582:15)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:430:20)
+    at cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\cast.js:352:39)
+    at model.Query.Query.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4786:12)
+    at model.Query.Query._castConditions (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2199:10)
+    at model.Query._find (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2225:8)
+    at model.Query.exec (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4330:80)
+---------------------------------------
+
+Time: Thu May 23 2024 19:58:49 GMT+0300 (שעון ישראל (קיץ))
+Message: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+Stack: CastError: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+    at SchemaNumber.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1236:12)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:434:16)
+    at SchemaNumber.handleSingle (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1582:15)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:430:20)
+    at cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\cast.js:352:39)
+    at model.Query.Query.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4786:12)
+    at model.Query.Query._castConditions (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2199:10)
+    at model.Query._find (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2225:8)
+    at model.Query.exec (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4330:80)
+---------------------------------------
+
+Time: Thu May 23 2024 19:58:50 GMT+0300 (שעון ישראל (קיץ))
+Message: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+Stack: CastError: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+    at SchemaNumber.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1236:12)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:434:16)
+    at SchemaNumber.handleSingle (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1582:15)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:430:20)
+    at cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\cast.js:352:39)
+    at model.Query.Query.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4786:12)
+    at model.Query.Query._castConditions (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2199:10)
+    at model.Query._find (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2225:8)
+    at model.Query.exec (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4330:80)
+---------------------------------------
+
+Time: Thu May 23 2024 19:58:50 GMT+0300 (שעון ישראל (קיץ))
+Message: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+Stack: CastError: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+    at SchemaNumber.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1236:12)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:434:16)
+    at SchemaNumber.handleSingle (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1582:15)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:430:20)
+    at cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\cast.js:352:39)
+    at model.Query.Query.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4786:12)
+    at model.Query.Query._castConditions (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2199:10)
+    at model.Query._find (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2225:8)
+    at model.Query.exec (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4330:80)
+---------------------------------------
+
+Time: Thu May 23 2024 19:58:50 GMT+0300 (שעון ישראל (קיץ))
+Message: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+Stack: CastError: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+    at SchemaNumber.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1236:12)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:434:16)
+    at SchemaNumber.handleSingle (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1582:15)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:430:20)
+    at cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\cast.js:352:39)
+    at model.Query.Query.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4786:12)
+    at model.Query.Query._castConditions (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2199:10)
+    at model.Query._find (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2225:8)
+    at model.Query.exec (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4330:80)
+---------------------------------------
+
+Time: Thu May 23 2024 19:59:01 GMT+0300 (שעון ישראל (קיץ))
+Message: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+Stack: CastError: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+    at SchemaNumber.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1236:12)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:434:16)
+    at SchemaNumber.handleSingle (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1582:15)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:430:20)
+    at cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\cast.js:352:39)
+    at model.Query.Query.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4786:12)
+    at model.Query.Query._castConditions (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2199:10)
+    at model.Query._find (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2225:8)
+    at model.Query.exec (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4330:80)
+---------------------------------------
+
+Time: Thu May 23 2024 20:00:18 GMT+0300 (שעון ישראל (קיץ))
+Message: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+Stack: CastError: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+    at SchemaNumber.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1236:12)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:434:16)
+    at SchemaNumber.handleSingle (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1582:15)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:430:20)
+    at cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\cast.js:352:39)
+    at model.Query.Query.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4786:12)
+    at model.Query.Query._castConditions (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2199:10)
+    at model.Query._find (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2225:8)
+    at model.Query.exec (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4330:80)
+---------------------------------------
+
+Time: Thu May 23 2024 20:00:24 GMT+0300 (שעון ישראל (קיץ))
+Message: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+Stack: CastError: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+    at SchemaNumber.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1236:12)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:434:16)
+    at SchemaNumber.handleSingle (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1582:15)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:430:20)
+    at cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\cast.js:352:39)
+    at model.Query.Query.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4786:12)
+    at model.Query.Query._castConditions (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2199:10)
+    at model.Query._find (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2225:8)
+    at model.Query.exec (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4330:80)
+---------------------------------------
+
+Time: Thu May 23 2024 20:00:35 GMT+0300 (שעון ישראל (קיץ))
+Message: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+Stack: CastError: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+    at SchemaNumber.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1236:12)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:434:16)
+    at SchemaNumber.handleSingle (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1582:15)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:430:20)
+    at cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\cast.js:352:39)
+    at model.Query.Query.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4786:12)
+    at model.Query.Query._castConditions (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2199:10)
+    at model.Query._find (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2225:8)
+    at model.Query.exec (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4330:80)
+---------------------------------------
+
+Time: Thu May 23 2024 20:00:35 GMT+0300 (שעון ישראל (קיץ))
+Message: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+Stack: CastError: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+    at SchemaNumber.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1236:12)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:434:16)
+    at SchemaNumber.handleSingle (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1582:15)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:430:20)
+    at cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\cast.js:352:39)
+    at model.Query.Query.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4786:12)
+    at model.Query.Query._castConditions (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2199:10)
+    at model.Query._find (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2225:8)
+    at model.Query.exec (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4330:80)
+---------------------------------------
+
+Time: Thu May 23 2024 20:00:37 GMT+0300 (שעון ישראל (קיץ))
+Message: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+Stack: CastError: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+    at SchemaNumber.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1236:12)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:434:16)
+    at SchemaNumber.handleSingle (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1582:15)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:430:20)
+    at cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\cast.js:352:39)
+    at model.Query.Query.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4786:12)
+    at model.Query.Query._castConditions (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2199:10)
+    at model.Query._find (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2225:8)
+    at model.Query.exec (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4330:80)
+---------------------------------------
+
+Time: Thu May 23 2024 20:00:45 GMT+0300 (שעון ישראל (קיץ))
+Message: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+Stack: CastError: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+    at SchemaNumber.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1236:12)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:434:16)
+    at SchemaNumber.handleSingle (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1582:15)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:430:20)
+    at cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\cast.js:352:39)
+    at model.Query.Query.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4786:12)
+    at model.Query.Query._castConditions (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2199:10)
+    at model.Query._find (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2225:8)
+    at model.Query.exec (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4330:80)
+---------------------------------------
+
+Time: Thu May 23 2024 20:00:47 GMT+0300 (שעון ישראל (קיץ))
+Message: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+Stack: CastError: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+    at SchemaNumber.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1236:12)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:434:16)
+    at SchemaNumber.handleSingle (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1582:15)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:430:20)
+    at cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\cast.js:352:39)
+    at model.Query.Query.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4786:12)
+    at model.Query.Query._castConditions (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2199:10)
+    at model.Query._find (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2225:8)
+    at model.Query.exec (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4330:80)
+---------------------------------------
+
+Time: Thu May 23 2024 20:00:53 GMT+0300 (שעון ישראל (קיץ))
+Message: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+Stack: CastError: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+    at SchemaNumber.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1236:12)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:434:16)
+    at SchemaNumber.handleSingle (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1582:15)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:430:20)
+    at cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\cast.js:352:39)
+    at model.Query.Query.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4786:12)
+    at model.Query.Query._castConditions (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2199:10)
+    at model.Query._find (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2225:8)
+    at model.Query.exec (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4330:80)
+---------------------------------------
+
+Time: Thu May 23 2024 20:01:24 GMT+0300 (שעון ישראל (קיץ))
+Message: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+Stack: CastError: Cast to Number failed for value "NaN" (type number) at path "accountNumber" for model "AccountOperationModel"
+    at SchemaNumber.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:380:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1236:12)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:434:16)
+    at SchemaNumber.handleSingle (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schemaType.js:1582:15)
+    at SchemaNumber.castForQuery (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\schema\number.js:430:20)
+    at cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\cast.js:352:39)
+    at model.Query.Query.cast (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4786:12)
+    at model.Query.Query._castConditions (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2199:10)
+    at model.Query._find (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:2225:8)
+    at model.Query.exec (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\mongoose\lib\query.js:4330:80)
+---------------------------------------
+
+Time: Thu May 23 2024 20:03:39 GMT+0300 (שעון ישראל (קיץ))
+Message: No operations found for this account number.
+Stack: Error: No operations found for this account number.
+    at DataService.<anonymous> (C:\Users\user\Desktop\Project 4\BANK\Backend\src\5-services\bank-service.ts:9:19)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\user\Desktop\Project 4\BANK\Backend\src\5-services\bank-service.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+---------------------------------------
+
+Time: Thu May 23 2024 20:03:51 GMT+0300 (שעון ישראל (קיץ))
+Message: No operations found for this account number.
+Stack: Error: No operations found for this account number.
+    at DataService.<anonymous> (C:\Users\user\Desktop\Project 4\BANK\Backend\src\5-services\bank-service.ts:9:19)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\user\Desktop\Project 4\BANK\Backend\src\5-services\bank-service.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+---------------------------------------
+
+Time: Thu May 23 2024 20:05:02 GMT+0300 (שעון ישראל (קיץ))
+Message: alert is not defined
+Stack: ReferenceError: alert is not defined
+    at DataService.<anonymous> (C:\Users\user\Desktop\Project 4\BANK\Backend\src\5-services\bank-service.ts:9:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\user\Desktop\Project 4\BANK\Backend\src\5-services\bank-service.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+---------------------------------------
+
+Time: Thu May 23 2024 20:06:54 GMT+0300 (שעון ישראל (קיץ))
+Message: accoun number 2 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 20:06:58 GMT+0300 (שעון ישראל (קיץ))
+Message: accoun number 22 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 20:07:02 GMT+0300 (שעון ישראל (קיץ))
+Message: accoun number 2 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 20:07:06 GMT+0300 (שעון ישראל (קיץ))
+Message: accoun number 2243 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 20:15:15 GMT+0300 (שעון ישראל (קיץ))
+Message: accoun number 123457 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 20:15:18 GMT+0300 (שעון ישראל (קיץ))
+Message: accoun number 12345 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 20:18:50 GMT+0300 (שעון ישראל (קיץ))
+Message: accoun number 1234 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 20:18:52 GMT+0300 (שעון ישראל (קיץ))
+Message: accoun number 12346 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 20:31:24 GMT+0300 (שעון ישראל (קיץ))
+Message: accoun number 12345 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 21:07:48 GMT+0300 (שעון ישראל (קיץ))
+Message: accoun number 11234 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 21:10:23 GMT+0300 (שעון ישראל (קיץ))
+Message: accoun number 124 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 21:12:33 GMT+0300 (שעון ישראל (קיץ))
+Message: AccountOperationModel validation failed: interest: Cast to Number failed for value "undefined" (type string) at path "interest", payments: Cast to Number failed for value "undefined" (type string) at path "payments"
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 21:14:14 GMT+0300 (שעון ישראל (קיץ))
+Message: AccountOperationModel validation failed: interest: Cast to Number failed for value "undefined" (type string) at path "interest", payments: Cast to Number failed for value "undefined" (type string) at path "payments"
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 21:14:44 GMT+0300 (שעון ישראל (קיץ))
+Message: AccountOperationModel validation failed: interest: Cast to Number failed for value "undefined" (type string) at path "interest", payments: Cast to Number failed for value "undefined" (type string) at path "payments"
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 21:15:18 GMT+0300 (שעון ישראל (קיץ))
+Message: AccountOperationModel validation failed: interest: Cast to Number failed for value "undefined" (type string) at path "interest", payments: Cast to Number failed for value "undefined" (type string) at path "payments"
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 21:16:56 GMT+0300 (שעון ישראל (קיץ))
+Message: AccountOperationModel validation failed: interest: Cast to Number failed for value "undefined" (type string) at path "interest", payments: Cast to Number failed for value "undefined" (type string) at path "payments"
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 21:17:35 GMT+0300 (שעון ישראל (קיץ))
+Message: AccountOperationModel validation failed: interest: Cast to Number failed for value "undefined" (type string) at path "interest", payments: Cast to Number failed for value "undefined" (type string) at path "payments"
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 21:18:37 GMT+0300 (שעון ישראל (קיץ))
+Message: AccountOperationModel validation failed: interest: Cast to Number failed for value "undefined" (type string) at path "interest", payments: Cast to Number failed for value "undefined" (type string) at path "payments"
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 21:19:59 GMT+0300 (שעון ישראל (קיץ))
+Message: AccountOperationModel validation failed: interest: Cast to Number failed for value "undefined" (type string) at path "interest", payments: Cast to Number failed for value "undefined" (type string) at path "payments"
+Stack: undefined
+---------------------------------------
+
+Time: Thu May 23 2024 21:24:44 GMT+0300 (שעון ישראל (קיץ))
+Message: accoun number 124 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Fri May 24 2024 17:17:21 GMT+0300 (שעון ישראל (קיץ))
+Message: AccountOperationModel validation failed: accountNumber: Account Number is too short
+Stack: undefined
+---------------------------------------
+
+Time: Fri May 24 2024 17:19:10 GMT+0300 (שעון ישראל (קיץ))
+Message: AccountOperationModel validation failed: accountNumber: Account Number is too short
+Stack: undefined
+---------------------------------------
+
+Time: Fri May 24 2024 17:19:25 GMT+0300 (שעון ישראל (קיץ))
+Message: AccountOperationModel validation failed: accountNumber: Account Number is too short
+Stack: undefined
+---------------------------------------
+
+Time: Sat May 25 2024 17:10:29 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/operations/6651f12937324b84a4285075 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Sat May 25 2024 17:10:46 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/operations/6651f12937324b84a4285075 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Sat May 25 2024 17:10:47 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/operations/6651f12937324b84a4285075 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Sat May 25 2024 17:10:58 GMT+0300 (שעון ישראל (קיץ))
+Message: Route /api/operations/6651f12937324b84a4285075 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Sat May 25 2024 17:13:28 GMT+0300 (שעון ישראל (קיץ))
+Message: Cannot set headers after they are sent to the client
+Stack: Error: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:278:15)
+    at C:\Users\user\Desktop\Project 4\BANK\Backend\src\6-controllers\bank-controller.ts:31:49
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\user\Desktop\Project 4\BANK\Backend\src\6-controllers\bank-controller.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+---------------------------------------
+
+Time: Sat May 25 2024 17:24:12 GMT+0300 (שעון ישראל (קיץ))
+Message: accoun number 232 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Sat May 25 2024 17:26:27 GMT+0300 (שעון ישראל (קיץ))
+Message: accoun number 1234 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Sat May 25 2024 18:45:14 GMT+0300 (שעון ישראל (קיץ))
+Message: Cannot set headers after they are sent to the client
+Stack: Error: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:278:15)
+    at C:\Users\user\Desktop\Project 4\BANK\Backend\src\6-controllers\bank-controller.ts:31:49
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\user\Desktop\Project 4\BANK\Backend\src\6-controllers\bank-controller.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+---------------------------------------
+
+Time: Sat May 25 2024 18:46:37 GMT+0300 (שעון ישראל (קיץ))
+Message: Cannot set headers after they are sent to the client
+Stack: Error: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:278:15)
+    at C:\Users\user\Desktop\Project 4\BANK\Backend\src\6-controllers\bank-controller.ts:31:49
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\user\Desktop\Project 4\BANK\Backend\src\6-controllers\bank-controller.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+---------------------------------------
+
+Time: Sat May 25 2024 18:46:43 GMT+0300 (שעון ישראל (קיץ))
+Message: Cannot set headers after they are sent to the client
+Stack: Error: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:278:15)
+    at C:\Users\user\Desktop\Project 4\BANK\Backend\src\6-controllers\bank-controller.ts:31:49
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\user\Desktop\Project 4\BANK\Backend\src\6-controllers\bank-controller.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+---------------------------------------
+
+Time: Sat May 25 2024 18:47:45 GMT+0300 (שעון ישראל (קיץ))
+Message: Cannot set headers after they are sent to the client
+Stack: Error: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:278:15)
+    at C:\Users\user\Desktop\Project 4\BANK\Backend\src\6-controllers\bank-controller.ts:31:49
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\user\Desktop\Project 4\BANK\Backend\src\6-controllers\bank-controller.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+---------------------------------------
+
+Time: Sat May 25 2024 18:48:15 GMT+0300 (שעון ישראל (קיץ))
+Message: Cannot set headers after they are sent to the client
+Stack: Error: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:278:15)
+    at C:\Users\user\Desktop\Project 4\BANK\Backend\src\6-controllers\bank-controller.ts:31:49
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\user\Desktop\Project 4\BANK\Backend\src\6-controllers\bank-controller.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+---------------------------------------
+
+Time: Sat May 25 2024 18:48:52 GMT+0300 (שעון ישראל (קיץ))
+Message: Cannot set headers after they are sent to the client
+Stack: Error: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:278:15)
+    at C:\Users\user\Desktop\Project 4\BANK\Backend\src\6-controllers\bank-controller.ts:31:49
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\user\Desktop\Project 4\BANK\Backend\src\6-controllers\bank-controller.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+---------------------------------------
+
+Time: Sat May 25 2024 18:50:38 GMT+0300 (שעון ישראל (קיץ))
+Message: Cannot set headers after they are sent to the client
+Stack: Error: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:278:15)
+    at C:\Users\user\Desktop\Project 4\BANK\Backend\src\6-controllers\bank-controller.ts:31:49
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\user\Desktop\Project 4\BANK\Backend\src\6-controllers\bank-controller.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+---------------------------------------
+
+Time: Sat May 25 2024 18:51:19 GMT+0300 (שעון ישראל (קיץ))
+Message: Cannot set headers after they are sent to the client
+Stack: Error: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:278:15)
+    at C:\Users\user\Desktop\Project 4\BANK\Backend\src\6-controllers\bank-controller.ts:31:49
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\user\Desktop\Project 4\BANK\Backend\src\6-controllers\bank-controller.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+---------------------------------------
+
+Time: Sat May 25 2024 18:58:43 GMT+0300 (שעון ישראל (קיץ))
+Message: Cannot set headers after they are sent to the client
+Stack: Error: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:278:15)
+    at C:\Users\user\Desktop\Project 4\BANK\Backend\src\6-controllers\bank-controller.ts:31:49
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\user\Desktop\Project 4\BANK\Backend\src\6-controllers\bank-controller.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+---------------------------------------
+
+Time: Sat May 25 2024 18:59:13 GMT+0300 (שעון ישראל (קיץ))
+Message: Cannot set headers after they are sent to the client
+Stack: Error: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:278:15)
+    at C:\Users\user\Desktop\Project 4\BANK\Backend\src\6-controllers\bank-controller.ts:31:49
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\user\Desktop\Project 4\BANK\Backend\src\6-controllers\bank-controller.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+---------------------------------------
+
+Time: Sat May 25 2024 19:11:31 GMT+0300 (שעון ישראל (קיץ))
+Message: Cannot set headers after they are sent to the client
+Stack: Error: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:278:15)
+    at C:\Users\user\Desktop\Project 4\BANK\Backend\src\6-controllers\bank-controller.ts:31:49
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\user\Desktop\Project 4\BANK\Backend\src\6-controllers\bank-controller.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+---------------------------------------
+
+Time: Sat May 25 2024 19:20:07 GMT+0300 (שעון ישראל (קיץ))
+Message: Cannot set headers after they are sent to the client
+Stack: Error: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:278:15)
+    at C:\Users\user\Desktop\Project 4\BANK\Backend\src\6-controllers\bank-controller.ts:31:49
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\user\Desktop\Project 4\BANK\Backend\src\6-controllers\bank-controller.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+---------------------------------------
+
+Time: Sat May 25 2024 19:21:29 GMT+0300 (שעון ישראל (קיץ))
+Message: Cannot set headers after they are sent to the client
+Stack: Error: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:278:15)
+    at C:\Users\user\Desktop\Project 4\BANK\Backend\src\6-controllers\bank-controller.ts:32:18
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\user\Desktop\Project 4\BANK\Backend\src\6-controllers\bank-controller.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+---------------------------------------
+
+Time: Sat May 25 2024 19:21:37 GMT+0300 (שעון ישראל (קיץ))
+Message: Cannot set headers after they are sent to the client
+Stack: Error: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.contentType (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:624:15)
+    at ServerResponse.sendStatus (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:373:8)
+    at C:\Users\user\Desktop\Project 4\BANK\Backend\src\6-controllers\bank-controller.ts:32:18
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\user\Desktop\Project 4\BANK\Backend\src\6-controllers\bank-controller.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+---------------------------------------
+
+Time: Sat May 25 2024 19:21:55 GMT+0300 (שעון ישראל (קיץ))
+Message: Cannot set headers after they are sent to the client
+Stack: Error: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.contentType (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:624:15)
+    at ServerResponse.sendStatus (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:373:8)
+    at C:\Users\user\Desktop\Project 4\BANK\Backend\src\6-controllers\bank-controller.ts:32:18
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\user\Desktop\Project 4\BANK\Backend\src\6-controllers\bank-controller.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+---------------------------------------
+
+Time: Sat May 25 2024 19:22:00 GMT+0300 (שעון ישראל (קיץ))
+Message: accoun number 123457 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Sat May 25 2024 19:43:45 GMT+0300 (שעון ישראל (קיץ))
+Message: Cannot set headers after they are sent to the client
+Stack: Error: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.contentType (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:624:15)
+    at ServerResponse.sendStatus (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:373:8)
+    at C:\Users\user\Desktop\Project 4\BANK\Backend\src\6-controllers\bank-controller.ts:32:18
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\user\Desktop\Project 4\BANK\Backend\src\6-controllers\bank-controller.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+---------------------------------------
+
+Time: Sat May 25 2024 19:48:34 GMT+0300 (שעון ישראל (קיץ))
+Message: accoun number 55 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Sat May 25 2024 19:48:36 GMT+0300 (שעון ישראל (קיץ))
+Message: accoun number 4 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Sat May 25 2024 19:49:14 GMT+0300 (שעון ישראל (קיץ))
+Message: accoun number 6 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Sat May 25 2024 19:50:14 GMT+0300 (שעון ישראל (קיץ))
+Message: accoun number 7 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Sat May 25 2024 19:50:17 GMT+0300 (שעון ישראל (קיץ))
+Message: accoun number 9 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Sat May 25 2024 20:12:35 GMT+0300 (שעון ישראל (קיץ))
+Message: Cannot set headers after they are sent to the client
+Stack: Error: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.contentType (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:624:15)
+    at ServerResponse.sendStatus (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:373:8)
+    at C:\Users\user\Desktop\Project 4\BANK\Backend\src\6-controllers\bank-controller.ts:32:18
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\user\Desktop\Project 4\BANK\Backend\src\6-controllers\bank-controller.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+---------------------------------------
+
+Time: Sat May 25 2024 20:22:34 GMT+0300 (שעון ישראל (קיץ))
+Message: accoun number 14454 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Sat May 25 2024 20:25:34 GMT+0300 (שעון ישראל (קיץ))
+Message: AccountOperationModel validation failed: interest: Path `interest` is required.
+Stack: undefined
+---------------------------------------
+
+Time: Sat May 25 2024 20:25:51 GMT+0300 (שעון ישראל (קיץ))
+Message: AccountOperationModel validation failed: interest: Path `interest` is required.
+Stack: undefined
+---------------------------------------
+
+Time: Sat May 25 2024 20:29:09 GMT+0300 (שעון ישראל (קיץ))
+Message: AccountOperationModel validation failed: payments: Path `payments` is required., interest: Path `interest` is required.
+Stack: undefined
+---------------------------------------
+
+Time: Sat May 25 2024 20:35:52 GMT+0300 (שעון ישראל (קיץ))
+Message: AccountOperationModel validation failed: payments: Path `payments` is required., interest: Path `interest` is required.
+Stack: undefined
+---------------------------------------
+
+Time: Sat May 25 2024 20:35:53 GMT+0300 (שעון ישראל (קיץ))
+Message: AccountOperationModel validation failed: payments: Path `payments` is required., interest: Path `interest` is required.
+Stack: undefined
+---------------------------------------
+
+Time: Sat May 25 2024 20:35:54 GMT+0300 (שעון ישראל (קיץ))
+Message: AccountOperationModel validation failed: payments: Path `payments` is required., interest: Path `interest` is required.
+Stack: undefined
+---------------------------------------
+
+Time: Sat May 25 2024 20:36:23 GMT+0300 (שעון ישראל (קיץ))
+Message: AccountOperationModel validation failed: payments: Path `payments` is required., interest: Path `interest` is required.
+Stack: undefined
+---------------------------------------
+
+Time: Sat May 25 2024 20:36:25 GMT+0300 (שעון ישראל (קיץ))
+Message: AccountOperationModel validation failed: payments: Path `payments` is required., interest: Path `interest` is required.
+Stack: undefined
+---------------------------------------
+
+Time: Sat May 25 2024 20:36:25 GMT+0300 (שעון ישראל (קיץ))
+Message: AccountOperationModel validation failed: payments: Path `payments` is required., interest: Path `interest` is required.
+Stack: undefined
+---------------------------------------
+
+Time: Sat May 25 2024 20:36:46 GMT+0300 (שעון ישראל (קיץ))
+Message: AccountOperationModel validation failed: payments: Path `payments` is required., interest: Path `interest` is required.
+Stack: undefined
+---------------------------------------
+
+Time: Sat May 25 2024 20:40:27 GMT+0300 (שעון ישראל (קיץ))
+Message: Cannot set headers after they are sent to the client
+Stack: Error: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.contentType (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:624:15)
+    at ServerResponse.sendStatus (C:\Users\user\Desktop\Project 4\BANK\Backend\node_modules\express\lib\response.js:373:8)
+    at C:\Users\user\Desktop\Project 4\BANK\Backend\src\6-controllers\bank-controller.ts:32:18
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\user\Desktop\Project 4\BANK\Backend\src\6-controllers\bank-controller.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+---------------------------------------
+
+Time: Sat Jun 01 2024 21:58:11 GMT+0300 (שעון ישראל (קיץ))
+Message: accoun number 12345 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Sat Jun 01 2024 21:58:14 GMT+0300 (שעון ישראל (קיץ))
+Message: accoun number 1234 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Sat Jun 01 2024 21:58:32 GMT+0300 (שעון ישראל (קיץ))
+Message: accoun number 12345 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Sat Jun 01 2024 21:59:09 GMT+0300 (שעון ישראל (קיץ))
+Message: accoun number 1234 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Sat Jun 01 2024 21:59:14 GMT+0300 (שעון ישראל (קיץ))
+Message: accoun number 12345 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Sat Jun 01 2024 21:59:47 GMT+0300 (שעון ישראל (קיץ))
+Message: Cannot set headers after they are sent to the client
+Stack: Error: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:703:11)
+    at ServerResponse.header (C:\Users\Vladislav\Desktop\2024-06-02  Project_JB_Test\Backend\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.contentType (C:\Users\Vladislav\Desktop\2024-06-02  Project_JB_Test\Backend\node_modules\express\lib\response.js:624:15)
+    at ServerResponse.sendStatus (C:\Users\Vladislav\Desktop\2024-06-02  Project_JB_Test\Backend\node_modules\express\lib\response.js:373:8)
+    at C:\Users\Vladislav\Desktop\2024-06-02  Project_JB_Test\Backend\src\6-controllers\bank-controller.ts:32:18
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\Vladislav\Desktop\2024-06-02  Project_JB_Test\Backend\src\6-controllers\bank-controller.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+---------------------------------------
+
+Time: Sat Jun 01 2024 22:00:24 GMT+0300 (שעון ישראל (קיץ))
+Message: Cannot set headers after they are sent to the client
+Stack: Error: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:703:11)
+    at ServerResponse.header (C:\Users\Vladislav\Desktop\2024-06-02  Project_JB_Test\Backend\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.contentType (C:\Users\Vladislav\Desktop\2024-06-02  Project_JB_Test\Backend\node_modules\express\lib\response.js:624:15)
+    at ServerResponse.sendStatus (C:\Users\Vladislav\Desktop\2024-06-02  Project_JB_Test\Backend\node_modules\express\lib\response.js:373:8)
+    at C:\Users\Vladislav\Desktop\2024-06-02  Project_JB_Test\Backend\src\6-controllers\bank-controller.ts:32:18
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\Vladislav\Desktop\2024-06-02  Project_JB_Test\Backend\src\6-controllers\bank-controller.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+---------------------------------------
+
+Time: Sat Jun 01 2024 22:02:25 GMT+0300 (שעון ישראל (קיץ))
+Message: Cannot set headers after they are sent to the client
+Stack: Error: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:703:11)
+    at ServerResponse.header (C:\Users\Vladislav\Desktop\2024-06-02  Project_JB_Test\Backend\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.contentType (C:\Users\Vladislav\Desktop\2024-06-02  Project_JB_Test\Backend\node_modules\express\lib\response.js:624:15)
+    at ServerResponse.sendStatus (C:\Users\Vladislav\Desktop\2024-06-02  Project_JB_Test\Backend\node_modules\express\lib\response.js:373:8)
+    at C:\Users\Vladislav\Desktop\2024-06-02  Project_JB_Test\Backend\src\6-controllers\bank-controller.ts:31:39
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\Vladislav\Desktop\2024-06-02  Project_JB_Test\Backend\src\6-controllers\bank-controller.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+---------------------------------------
+
+Time: Sun Jun 02 2024 17:10:52 GMT+0300 (שעון ישראל (קיץ))
+Message: Operation `AccountOperationsCollection.find()` buffering timed out after 10000ms
+Stack: MongooseError: Operation `AccountOperationsCollection.find()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\Vladislav\Desktop\2024-06-02  Project_JB_Test\Backend\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at processTimers (node:internal/timers:514:7)
+---------------------------------------
+
+Time: Sun Jun 02 2024 17:10:56 GMT+0300 (שעון ישראל (קיץ))
+Message: Operation `AccountOperationsCollection.find()` buffering timed out after 10000ms
+Stack: MongooseError: Operation `AccountOperationsCollection.find()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\Vladislav\Desktop\2024-06-02  Project_JB_Test\Backend\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at processTimers (node:internal/timers:514:7)
+---------------------------------------
+
+Time: Sun Jun 02 2024 17:10:59 GMT+0300 (שעון ישראל (קיץ))
+Message: Operation `AccountOperationsCollection.find()` buffering timed out after 10000ms
+Stack: MongooseError: Operation `AccountOperationsCollection.find()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\Vladislav\Desktop\2024-06-02  Project_JB_Test\Backend\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at processTimers (node:internal/timers:514:7)
+---------------------------------------
+
+Time: Sun Jun 02 2024 17:43:48 GMT+0300 (שעון ישראל (קיץ))
+Message: accoun number 12345 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Sun Jun 02 2024 17:43:52 GMT+0300 (שעון ישראל (קיץ))
+Message: accoun number 12346 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Sun Jun 02 2024 17:49:19 GMT+0300 (שעון ישראל (קיץ))
+Message: accoun number 5 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Sun Jun 02 2024 17:53:20 GMT+0300 (שעון ישראל (קיץ))
+Message: accoun number 1111111111 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Sun Jun 02 2024 17:56:28 GMT+0300 (שעון ישראל (קיץ))
+Message: accoun number 4444444444 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Sun Jun 02 2024 17:57:31 GMT+0300 (שעון ישראל (קיץ))
+Message: accoun number 23 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Sun Jun 02 2024 17:57:37 GMT+0300 (שעון ישראל (קיץ))
+Message: accoun number 11111111 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Sun Jun 02 2024 17:57:42 GMT+0300 (שעון ישראל (קיץ))
+Message: accoun number 123234524 not exist.
+Stack: undefined
+---------------------------------------
+

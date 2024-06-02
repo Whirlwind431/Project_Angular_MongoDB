@@ -1,0 +1,41 @@
+<div class="add-data">
+    <hr>
+    <h2>Add Operation:</h2>
+    <div class="input-section">
+        <label>Account Number:</label>
+        <input type="number" [(ngModel)]="accountNumber" />
+    </div>
+
+    <div class="input-section">
+        <label>Operation Type:</label>
+        <select [(ngModel)]="selectedType">
+            <option *ngFor="let type of operationTypes" [value]="type">{{ type }}</option>
+        </select>
+    </div>
+
+    <div *ngIf="selectedType">
+        <div *ngIf="selectedType === 'deposit' || selectedType === 'withdrawal'">
+            <div class="input-section">
+                <label>Sum:</label>
+                <input type="number" [(ngModel)]="sum" />
+            </div>
+        </div>
+
+        <div *ngIf="selectedType === 'loan'">
+            <div class="input-section">
+                <label>Sum:</label>
+                <input type="number" [(ngModel)]="sum" />
+            </div>
+            <div class="input-section">
+                <label>Payments:</label>
+                <input type="number" [(ngModel)]="payments" />
+            </div>
+            <div class="input-section">
+                <label>Interest:</label>
+                <input type="number" [(ngModel)]="interest" />
+            </div>
+        </div>
+
+        <button (click)="saveOperation()" [disabled]="!sum || !accountNumber ">Save</button>
+    </div>
+</div>

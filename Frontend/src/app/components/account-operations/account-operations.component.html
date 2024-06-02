@@ -1,0 +1,29 @@
+<div class="account-operations">
+
+  <div class="input-section">
+    <label>Enter Account Number:</label>
+    <input type="number" [(ngModel)]="accountNumber" />
+    <button (click)="getOperations()" [disabled]="!accountNumber">Get Operations</button>
+  </div>
+
+  <hr>
+  <h2>Account Number:{{displayedAccountNumber}}</h2>
+
+  <div class="card-container">
+    <div *ngFor="let operation of accountOperations" class="card">
+      <div class="button-delete">
+        <button (click)="deleteMe(operation._id)">❌</button>
+      </div>
+      <div class="card-header">
+        <h3>{{ operation.type }}</h3>
+      </div>
+      <div class="card-body">
+        <p>Sum: {{ operation.sum }}</p>
+        <p>Date: {{ operation.date | date:'short' }}</p>
+        <p *ngIf="operation.type ==='loan'">Interest: {{ operation.interest }}
+        </p>
+        <p *ngIf="operation.type ==='loan'">Payments: {{ operation.payments }}</p>
+      </div>
+    </div>
+  </div>
+</div>
